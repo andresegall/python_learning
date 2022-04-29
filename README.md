@@ -9,4 +9,4 @@ This repository is intended to register my learning in python.
   
 - ## Expression Validator
   - Simple validator method for mathematics expressions.
-  - Basically, make sure all the parentheses, braces, and square brackets are open and closed in the correct sequence.
+  - Basically, make sure all the parentheses, braces, and square brackets are opened and closed in the correct sequence.
